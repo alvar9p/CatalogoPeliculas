@@ -1,0 +1,8 @@
+Clase Pelìcula: 
+ nombre: Hola mundo
+Clase Pelìcula: 
+ nombre: Superman
+Clase Pelìcula: 
+ nombre: Batman
+Clase Pelìcula: 
+ nombre: Avengers
